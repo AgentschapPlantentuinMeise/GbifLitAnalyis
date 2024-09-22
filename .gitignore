@@ -14,6 +14,7 @@ __pycache__/
 *.qgz
 *.shp
 *.dbf
+*.gsheet
 
 #output files
 *.graphml
