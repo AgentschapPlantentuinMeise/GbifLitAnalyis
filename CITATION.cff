@@ -11,17 +11,18 @@ authors:
   - given-names: Quentin
     family-names: Groom
     email: quentin.groom@plantentuinmeise.be
+    name-particle: Quentin
     affiliation: Meise Botanic Garden
     orcid: 'https://orcid.org/0000-0002-0596-5376'
 abstract: >-
-This repository provides a Python script for analysis and visualization of metadata from the Global Biodiversity Information Facility literature API. 
-It processes data from CSV files, fetches metadata for DOIs, and generates a variety of outputs, including detailed Markdown summaries, PDFs, network graphs of keywords and topics, global choropleth maps of researcher distributions, and word clouds based on publication abstracts and keywords. 
-The script is designed to facilitate the exploration and presentation of biodiversity data for research and educational purposes.
-keywords:
-  - GBIF
-  - provenence
-  - specimens
-  - citation
-  - use of specimens data
-  - research
-license: MIT
+  This repository provides a Python script for analysis and
+  visualization of metadata from the Global Biodiversity
+  Information Facility (GBIF) API. It processes data from
+  CSV files, fetches metadata for DOIs, and generates a
+  variety of outputs, including detailed Markdown summaries,
+  PDFs, network graphs of keywords and topics, global
+  choropleth maps of researcher distributions, and word
+  clouds based on publication abstracts and keywords. The
+  script is designed to facilitate the exploration and
+  presentation of biodiversity data for research and
+  educational purposes.
