@@ -3,7 +3,7 @@
 ## Overview
 
 This script performs an analysis of metadata from the Global Biodiversity Information Facility API, visualizes the data, and generates useful outputs such as networks, choropleth maps, word clouds, and markdown summaries.
-
+It is intended to be use with the output of linkLitToGbifId (https://github.com/AgentschapPlantentuinMeise/linkLitToGbifId).
 ### Features
 
 - **Fetch Metadata from GBIF API**: Retrieves metadata for a list of DOIs from the GBIF API.
