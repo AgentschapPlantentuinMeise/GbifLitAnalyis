@@ -75,6 +75,7 @@ cover/
 *.mo
 *.pot
 *.md
+!README.md
 
 # Django stuff:
 *.log
